@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--图片资源-->
+    <BitmapImage x:Key="Img_MinButtonIcon" UriSource="/VLCPlayerDemo;component/Resources/MinButtonIcon.png"/>
+    <BitmapImage x:Key="Img_MaxButtonIcon" UriSource="/VLCPlayerDemo;component/Resources/MaxButtonIcon.png"/>
+    <BitmapImage x:Key="Img_CloseButtonIcon" UriSource="/VLCPlayerDemo;component/Resources/ColseButtonIcon.png"/>
+
+    <BitmapImage x:Key="Img_FixButtonIcon" UriSource="/VLCPlayerDemo;component/Resources/FixButtonIcon.png"/>
+    <BitmapImage x:Key="Img_PlayVideoButtonIcon" UriSource="/VLCPlayerDemo;component/Resources/PlayVideoButtonIcon.png"/>
+    <BitmapImage x:Key="Img_StopVideoButtonIcon" UriSource="/VLCPlayerDemo;component/Resources/StopVideoButtonIcon.png"/>
+    <BitmapImage x:Key="Img_PlayNextButtonIcon" UriSource="/VLCPlayerDemo;component/Resources/PlayNextButtonIcon.png"/>
+    
+</ResourceDictionary>
